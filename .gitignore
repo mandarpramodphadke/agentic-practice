@@ -17,3 +17,6 @@ faiss_store/
 
 # private documents you don't want public
 data/private/
+
+#idea configuration\
+.idea
