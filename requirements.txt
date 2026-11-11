@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai
+langgraph
+python-dotenv
+
+# RAG: loading and chunking documents
+langchain-community
+langchain-text-splitters
+pypdf
+python-docx

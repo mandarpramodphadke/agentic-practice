@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+
+# PyCharm and Jupyter
+.idea/
+.ipynb_checkpoints/
+
+# generated indexes and caches
+faiss_store/
+*.index
+*.pkl
+
+# private documents you don't want public
+data/private/
