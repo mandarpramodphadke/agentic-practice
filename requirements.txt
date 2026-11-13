@@ -11,4 +11,4 @@ pypdf
 python-docx
 
 pydantic
-
+typing_extensions
